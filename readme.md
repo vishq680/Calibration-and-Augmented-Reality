@@ -20,6 +20,7 @@ HarrisFeatures.cpp - The program continuously captures frames from the webcam, d
 # Operating System and IDE
 
 MacOS
+
 Visual Studio Code
 
 # Running the program
